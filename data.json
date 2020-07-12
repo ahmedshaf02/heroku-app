@@ -1,0 +1,35 @@
+{
+  "name": "tracker",
+  "browsers": [
+    {
+      "count": 3,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240",
+      "browsername": "chrome"
+    },
+    {
+      "count": 0,
+      "userAgent": "",
+      "browsername": "firefox"
+    },
+    {
+      "count": 0,
+      "userAgent": "",
+      "browsername": "safari"
+    },
+    {
+      "count": 0,
+      "userAgent": "",
+      "browsername": "opera"
+    },
+    {
+      "count": 0,
+      "userAgent": "",
+      "browsername": "ie"
+    },
+    {
+      "count": 0,
+      "userAgent": "",
+      "browsername": "android"
+    }
+  ]
+}
